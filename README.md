@@ -1,7 +1,7 @@
 
 # Spring Boot, Apache Derby , JPA, Hibernate Rest API 
 
-Build Restful CRUD API for a simple Note-Taking application using Spring Boot, Mysql, JPA and Hibernate.
+Build Restful CRUD API for a simple Note-Taking application using Spring Boot, Apache Derby, JPA and Hibernate.
 
 ## Requirements
 
